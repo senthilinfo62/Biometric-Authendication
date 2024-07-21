@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyBiomerticAuthentication</string>
+    <string name="authenticate_fingerprint">Authenticate Using Fingerprint</string>
+    <string name="device_has_pin_password">Device Has PIN/Password</string>
+    <string name="welcome">Welcome To Home Page!</string>
+</resources>
